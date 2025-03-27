@@ -33,5 +33,5 @@ obj/
 *.suo
 *.db
 
-
-.appsettings.json
+# Ignore appsettings.json
+api/PokerStats/PokerStats/appsettings.json
